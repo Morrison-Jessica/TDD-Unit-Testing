@@ -1,0 +1,32 @@
+{
+  "name": "tdd-unit-testing",
+  "version": "1.0.0",
+  "description": "obscure credit card numbers",
+  "keywords": [
+    "unit",
+    "testing", 
+    "tdd",
+    "jest"
+  ],
+  "homepage": "https://github.com/Morrison-Jessica/TDD-Unit-Testing#readme",
+  "bugs": {
+    "url": "https://github.com/Morrison-Jessica/TDD-Unit-Testing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morrison-Jessica/TDD-Unit-Testing.git"
+  },
+  "license": "ISC",
+  "author": "JLMorrison",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "latest": "^0.2.0"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
